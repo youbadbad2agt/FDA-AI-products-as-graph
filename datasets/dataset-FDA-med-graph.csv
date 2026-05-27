@@ -457,7 +457,8 @@ Date of Final Decision;Submission Number;Device;Company;Panel (Lead);Primary Pro
 23.02.2024;K233590;Overjet Charting Assist;Overjet, Inc;Radiology;QIH;K222054
 22.02.2024;K233749;Revolution Ascend Sliding;GE Hangwei Medical Systems Co., Ltd.;Radiology;JAK;K091673
 21.02.2024;K232148;X-Guide Surgical Navigation System;X-Nav Technologies, LLC;Dental;QRY;K211701
-15.02.2024;K232915;EpiMonitor;Empatica Srl;Neurology;POS;"K181861,K221282"
+15.02.2024;K232915;EpiMonitor;Empatica Srl;Neurology;POS;"K181861
+,K221282"
 13.02.2024;K231855;QOCA® image Smart RT Contouring System;Quanta Computer Inc.;Radiology;QKB;K191928
 13.02.2024;K233788;EPIQ Series Diagnostic Ultrasound System, Affiniti Series Diagnostic Ultrasound System;Philips Ultrasound LLC;Radiology;IYN;K211597，K211597
 09.02.2024;K231355;Aurora;EnsoData;Anesthesiology;MNR;K182618
